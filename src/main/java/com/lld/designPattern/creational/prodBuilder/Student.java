@@ -1,4 +1,4 @@
-package com.lld.designPattern.prodBuilder;
+package com.lld.designPattern.creational.prodBuilder;
 
 public class Student {
 

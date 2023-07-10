@@ -1,4 +1,4 @@
-package com.lld.designPattern.builder;
+package com.lld.designPattern.creational.builder;
 
 public class Client {
 
